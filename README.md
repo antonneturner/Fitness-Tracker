@@ -4,18 +4,19 @@
 
 - Allows a user to be able to view create and track daily workouts. The will be able to log multiple exercises in a workout on a given day. They should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, they should be able to track my distance traveled.
 
-
-- This portfolio to showcase my talents as well present my creations to future employers.
-- I created this portfolio by using bootstraps, HTML, Javascript, CSS, and Jquery.
-- My motivation in creating this portfolio is to display my skills and showcase my talents.
-- I creataed this portfolio to enhance my skills and to continue to push myself to learn and grow, to recocrd take notes and see my progress from project to project, a before and after one can say.
-- The problem that this portolio solves in the representation needed by someone who desires to work in this field.
-- I learned how to use many bootstrap elements, as well as upload images directly into web browser.
-- I also learned how to customize background colors through css.
-
 ## Features
 
-- Show cases my portfolio
+- When the user loads the page, they should be given the option to create a new workout or continue with their last workout.
+
+The user should be able to:
+
+  * Add exercises to the most recent workout plan.
+
+  * Add new exercises to a new workout plan.
+
+  * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
+
+  * View the total duration of each workout from the past seven workouts on the `stats` page.
 
 ## Technologies
 
@@ -24,14 +25,17 @@
 - Bootstrap
 - Javascript
 - Jquery
+- Mongoose
+- Mongodb
+- Node
 
 ## Screenshot
 
-![Screenshot (54)](https://user-images.githubusercontent.com/71462708/110729091-19cc0c80-81ec-11eb-90e5-67a58c563dd4.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/71462708/111228812-3933b280-85bb-11eb-9563-a4033cce1f6a.png)
 
 ### Deployment
 
-[Site](https://antonneturner.github.io/New-Portfolio/)
+[Site]()
 
 # License
 
