@@ -1,3 +1,5 @@
+## Fitness Tracker
+
 ## Description
 
 - Allows a user to be able to view create and track daily workouts. The will be able to log multiple exercises in a workout on a given day. They should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, they should be able to track my distance traveled.
