@@ -4,6 +4,8 @@
 
 - Allows a user to be able to view create and track daily workouts. The will be able to log multiple exercises in a workout on a given day. They should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, they should be able to track my distance traveled.
 
+- The problem that this app solves is that it allows users to track their exercises for a customized experience.
+
 ## Features
 
 - When the user loads the page, they should be given the option to create a new workout or continue with their last workout.
